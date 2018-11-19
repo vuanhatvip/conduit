@@ -21,10 +21,10 @@ npm install
 3/ npm-start
 -----------
 
-npm install react-router-dom --save
-npm install axios --save
-npm install react-redux
-npm install redux
+- npm install react-router-dom --save
+- npm install axios --save
+- npm install react-redux
+- npm install redux
 
 
 1/ Fetch API, [----1day-----]
