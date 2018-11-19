@@ -12,12 +12,12 @@
 
 [STEP-CLONE-PROEJECT]
 ----
-1/ Install Git
+- 1/ Install Git
 + https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
-2/ git clone https://github.com/khoihuynhInfo/conduit.git
+- 2/ git clone https://github.com/khoihuynhInfo/conduit.git
 - cd my-app
 - npm install
-3/ npm-start
+- 3/ npm-start
 -----------
 
 - npm install react-router-dom --save
