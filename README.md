@@ -25,7 +25,7 @@
 - npm install react-redux
 - npm install redux
 
-[knowledge]
+# [knowledge]
 1/ Fetch API, [----1day-----]
 - concept
 [ref] https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
