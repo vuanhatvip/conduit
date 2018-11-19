@@ -1,6 +1,5 @@
 
 [Require]
-[---------------------------------------------------
 - Build the Real-World web application using React Boilerplate (https://demo.productionready.io/#/)
 - Layout and spec: https://github.com/gothinkster/realworld-starter-kit/blob/master/FRONTEND_INSTRUCTIONS.md.
  - APIs Spec: https://github.com/gothinkster/realworld/tree/master/api.
@@ -9,7 +8,7 @@
 - Using React Router v4 to manage pages
 - Using Redux Saga to handle API request
 - Exercise with best practices.
------------------------------------------------------]
+
 
 [STEP-CLONE-PROEJECT]
 ----
