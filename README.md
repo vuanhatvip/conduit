@@ -1,16 +1,95 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+[Require]
+[---------------------------------------------------
+Build the Real-World web application using React Boilerplate (https://demo.productionready.io/#/)
+Layout and spec: https://github.com/gothinkster/realworld-starter-kit/blob/master/FRONTEND_INSTRUCTIONS.md.
+APIs Spec: https://github.com/gothinkster/realworld/tree/master/api.
+example : https://conduit.productionready.io/api/articles?limit=10&offset=0
+Require:
+Using React Router v4 to manage pages
+Using Redux Saga to handle API request
+Exercise with best practices.
+-----------------------------------------------------]
 
-In the project directory, you can run:
+[STEP-CLONE-PROEJECT]
+----
+1/ Install Git
++ https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+2/ git clone https://github.com/khoihuynhInfo/conduit.git
+cd my-app
+npm install
+3/ npm-start
+-----------
 
-### `npm start`
+npm install react-router-dom --save
+npm install axios --save
+npm install react-redux
+npm install redux
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+1/ Fetch API, [----1day-----]
+- concept
+[ref] https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
+- use libary axios for project,
+
+2/ Http [----1day-----]
+- concept
+Authentication with JWT(JsonWebToken)
+
+3/ Redux [----2day-----]
+- concept
+- async actions [1day]
+- middle ware
+- build example Todos [2day]
+- Redux saga [1day]
+- Redux thunk
+
+
+4/ Router v4 [2day]
+- concept, example 
+[ref]https://reacttraining.com/react-router/web/example/basic
+
+5/ Reactjs [-------2day-----]
+[ref] https://reactjs.org/docs/getting-started.html
+- Basic
+ + Lifecycle
+ + state, props, handle event, hande form 
+ + two way binding use (refs)
+ + use Fragments
+
+- Advanced [1day]
+ + How react Rendering Elements, and Virtual DOM in React
+ + Functional Components: [ref] https://hackernoon.com/react-stateless-functional-components-nine-wins-you-might-have-overlooked-997b0d933dbc
+--------------------------------------------------
+
+6/ Postman 
+- how use post man
+
+7/ Webpack [---2day--]
+- how use webpack
+
+8/ struct-file
+ + components ?, containers?, actions?, reducers?, constants?, routers.js?, utils?, 
+
+9/ Javasciprt 
+ + export defualt and export 
+ + pass by value, pass by Reference [ref] https://codeburst.io/javascript-pass-by-value-and-pass-by-reference-in-javascript-fcf10305aa9c
+ + scope, closures ?
+ + this, object, array?
+ + ES6  
+ + async await , promise
+10/ Git ? 
+
+------------------Time Total: 9[Day] 
+
+
+echo "# conduit" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/khoihuynhInfo/conduit.git
+git push -u origin master
+
 
 ### `npm test`
 
