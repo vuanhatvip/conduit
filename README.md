@@ -16,8 +16,8 @@ Exercise with best practices.
 1/ Install Git
 + https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 2/ git clone https://github.com/khoihuynhInfo/conduit.git
-cd my-app
-npm install
+- cd my-app
+- npm install
 3/ npm-start
 -----------
 
@@ -59,7 +59,8 @@ Authentication with JWT(JsonWebToken)
 
 - Advanced [1day]
  + How react Rendering Elements, and Virtual DOM in React
- + Functional Components: [ref] https://hackernoon.com/react-stateless-functional-components-nine-wins-you-might-have-overlooked-997b0d933dbc
+ + Functional Components: 
+  - [ref] https://hackernoon.com/react-stateless-functional-components-nine-wins-you-might-have-overlooked-997b0d933dbc
 --------------------------------------------------
 
 6/ Postman 
@@ -73,7 +74,8 @@ Authentication with JWT(JsonWebToken)
 
 9/ Javasciprt 
  + export defualt and export 
- + pass by value, pass by Reference [ref] https://codeburst.io/javascript-pass-by-value-and-pass-by-reference-in-javascript-fcf10305aa9c
+ + pass by value, pass by Reference 
+  - [ref] https://codeburst.io/javascript-pass-by-value-and-pass-by-reference-in-javascript-fcf10305aa9c
  + scope, closures ?
  + this, object, array?
  + ES6  
