@@ -84,12 +84,12 @@ Authentication with JWT(JsonWebToken)
 ------------------Time Total: 9[Day] 
 
 
-echo "# conduit" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/khoihuynhInfo/conduit.git
-git push -u origin master
+- echo "# conduit" >> README.md
+- git init
+- git add README.md
+- git commit -m "first commit"
+- git remote add origin https://github.com/khoihuynhInfo/conduit.git
+- git push -u origin master
 
 
 ### `npm test`
