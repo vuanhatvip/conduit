@@ -24,7 +24,9 @@
 - npm install axios --save
 - npm install react-redux
 - npm install redux
-
+- npm install react-boostrap --save
+- npm uninstall bootstrap --save
+- npm install bootstrap@3 --save
 # [knowledge]
 1/ Fetch API, [----1day-----]
 - concept
